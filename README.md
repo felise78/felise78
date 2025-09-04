@@ -2,10 +2,10 @@
 <div align="center">
 <br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=🧑‍🎨+artist+/+dev+👩‍💻)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=3000&color=FFFFFF&center=true&vCenter=true&width=435&lines=🧑‍🎨+artist+/+developer+👩‍💻)
 
 <img src="https://img.shields.io/badge/🎨-beaux arts de paris-ff6b6b?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/🖥️-42 school-4ecdc4?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/🖥️-42 paris-4ecdc4?style=for-the-badge&logoColor=white" />
 
 
 </div>
